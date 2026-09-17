@@ -1,1 +1,2 @@
-"# github-lab-Mohannad_Tamer" 
+# Github Lab
+Repository used to learn Git and GitHub 
